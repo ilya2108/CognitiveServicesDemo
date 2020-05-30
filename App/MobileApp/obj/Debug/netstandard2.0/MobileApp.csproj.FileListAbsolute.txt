@@ -1,0 +1,14 @@
+/Users/ryabuily/Desktop/CognitiveDemo/MobileApp/MobileApp/bin/Debug/netstandard2.0/MobileApp.deps.json
+/Users/ryabuily/Desktop/CognitiveDemo/MobileApp/MobileApp/bin/Debug/netstandard2.0/MobileApp.dll
+/Users/ryabuily/Desktop/CognitiveDemo/MobileApp/MobileApp/bin/Debug/netstandard2.0/ref/MobileApp.dll
+/Users/ryabuily/Desktop/CognitiveDemo/MobileApp/MobileApp/bin/Debug/netstandard2.0/MobileApp.pdb
+/Users/ryabuily/Desktop/CognitiveDemo/MobileApp/MobileApp/obj/Debug/netstandard2.0/MobileApp.csprojAssemblyReference.cache
+/Users/ryabuily/Desktop/CognitiveDemo/MobileApp/MobileApp/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/ryabuily/Desktop/CognitiveDemo/MobileApp/MobileApp/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/ryabuily/Desktop/CognitiveDemo/MobileApp/MobileApp/obj/Debug/netstandard2.0/MobileApp.AssemblyInfoInputs.cache
+/Users/ryabuily/Desktop/CognitiveDemo/MobileApp/MobileApp/obj/Debug/netstandard2.0/MobileApp.AssemblyInfo.cs
+/Users/ryabuily/Desktop/CognitiveDemo/MobileApp/MobileApp/obj/Debug/netstandard2.0/MobileApp.csproj.CoreCompileInputs.cache
+/Users/ryabuily/Desktop/CognitiveDemo/MobileApp/MobileApp/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/ryabuily/Desktop/CognitiveDemo/MobileApp/MobileApp/obj/Debug/netstandard2.0/MobileApp.dll
+/Users/ryabuily/Desktop/CognitiveDemo/MobileApp/MobileApp/obj/Debug/netstandard2.0/ref/MobileApp.dll
+/Users/ryabuily/Desktop/CognitiveDemo/MobileApp/MobileApp/obj/Debug/netstandard2.0/MobileApp.pdb
